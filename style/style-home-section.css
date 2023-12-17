@@ -366,4 +366,8 @@ h3.my-profession {
       -ms-flex-align: center;
           align-items: center;
 }
+footer{
+  background: var(--bg-black-100);
+  color: var(--text-black-900);
+}
 
