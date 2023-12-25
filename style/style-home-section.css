@@ -17,7 +17,7 @@ body.dark {
 body {
   line-height: 1.5;
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Cookie", sans-serif;
 }
 
 * {
@@ -119,7 +119,7 @@ ul {
 
 .st-social-link .st-social-btn .st-social-icon i {
   font-size: 22px;
-  color: grey
+  color: white
 }
 
 .st-social-link .st-social-btn .st-icon-name {
@@ -305,7 +305,7 @@ h3.hello {
   margin: 15px 0;
 }
 h3.hello span {
-  font-family: "Clicker Script", cursive;
+  font-family: 'Parisienne';
   font-size: 30px;
   font-weight: 700;
   color: var(--skin-color);
