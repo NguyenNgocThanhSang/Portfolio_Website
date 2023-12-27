@@ -1,6 +1,6 @@
 /*========================Typing Animation========================*/
 var typed = new Typed(".typing", {
-  strings: ["", "Data Engineer", "Data Science", "System Engineer", ""],
+  strings: ["", "Data Engineer / Kỹ sư dữ liệu", "Data Scientist / Nhà khoa học dữ liệu", "System Engineer / Kỹ sư hệ thống", ""],
   typeSpeed: 100,
   BackSpeed: 60,
   loop: true,
